@@ -19,6 +19,17 @@
         a linguagem é case sensitive em relação aos nomes
         nomes especiais como $this não podem ser usados
     */
+
+    /*
+    Recomendações para dar nomes:
+        tente dar nomes claros e de fácil identificação
+        evite nomes muito curtos ou muito longos
+        defina um padrão de nomeação e siga em todo o projeto
+        para variáveis, de preferencia a letras minusculas
+        para constantes, de preferencia a letras maiusculas
+        use camelCase para métodos e atributos
+        use SNAKE_CASE para nomear constantes
+    */
     ?>
 
     
