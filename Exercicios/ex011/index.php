@@ -56,7 +56,7 @@ $numeros = array(1,2,3,4,5,6);
 echo $numeros[5]; // pegando o valor na posição 4, sendo que começa em 0
 
 
- // shift + alt + f = tabular bloco
+ // shift + alt + f = identar bloco
  // ctrl + ; = comentar bloco
 
  ?>
